@@ -1,0 +1,15 @@
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.AssemblyInfoInputs.cache
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.AssemblyInfo.cs
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.csproj.CoreCompileInputs.cache
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.sourcelink.json
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/bin/Debug/net8.0/lab-7-pig-latin-MaxSultan
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/bin/Debug/net8.0/lab-7-pig-latin-MaxSultan.deps.json
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/bin/Debug/net8.0/lab-7-pig-latin-MaxSultan.runtimeconfig.json
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/bin/Debug/net8.0/lab-7-pig-latin-MaxSultan.dll
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/bin/Debug/net8.0/lab-7-pig-latin-MaxSultan.pdb
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.dll
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/refint/lab-7-pig-latin-MaxSultan.dll
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.pdb
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/lab-7-pig-latin-MaxSultan.genruntimeconfig.cache
+/Users/maxwellsultan/snow_college_programming/lab-7-pig-latin-MaxSultan/obj/Debug/net8.0/ref/lab-7-pig-latin-MaxSultan.dll
