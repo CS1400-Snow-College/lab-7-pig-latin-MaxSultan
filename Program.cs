@@ -7,7 +7,7 @@ string TraslateToPigLatin (string text){
         int firstVovelIndex = Array.FindIndex(word.ToCharArray(), character => vowels.Contains(character));
         string backHalf = word.Substring(firstVovelIndex);
         string consonantCluster = word.Substring(0, firstVovelIndex);
-        return firstVovelIndex == 0 ?$"{word}way" : $"{backHalf}{consonantCluster}ay";
+        return firstVovelIndex == 0 ?$"{word.ToLower()}way" : $"{backHalf}{consonantCluster.ToLower()}ay";
     }));
 } 
 
@@ -23,10 +23,7 @@ string OffsetCharacter(string text, int seed){
     int characterMin = 96;
     int characterMax = 122;
     return string.Join(" ", text.Split(" ").Select(word =>
-        string.Join("", word.ToCharArray().Select(letter => {
-            Console.WriteLine($"{UpperBounded(characterMin, characterMax, (int)letter + seed)} {(char)UpperBounded(characterMin, characterMax, (int)letter + seed)}");
-            return (char)(UpperBounded(characterMin, characterMax, (int)letter + seed));
-        }))
+        string.Join("", word.ToCharArray().Select(letter => (char)(UpperBounded(characterMin, characterMax, (int)letter + seed))))
     ));
 }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-7-pig-latin-MaxSultan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7912226d6ef5ff684c3ceb638eec18ae3c80c735")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0bc44392d8d75afbe7c9b3e056e3428c3b5daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-7-pig-latin-MaxSultan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-7-pig-latin-MaxSultan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
